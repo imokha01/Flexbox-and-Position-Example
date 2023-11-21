@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    background-color: aqua;
+    flex-direction: row;
+
+
+}
+
+
+.f {
+    width: 400px;
+
+}

@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+    background-color: aqua;
+    flex-direction: row;
+
+
+}
+
+
+.flex div {
+    width: 400px;
+    height: 200px;
+
+}

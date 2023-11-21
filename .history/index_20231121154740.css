@@ -1,0 +1,36 @@
+body {
+    background-color: navy;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 4opx;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.right {
+    display: flex;
+    gap: 40px;
+    color: white;
+    align-items: center;
+}
+
+.link_container {
+    display: flex;
+    gap: 40px;
+}
+
+button {
+    width: 100px;
+    height: px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button:hover {
+    background-color: aquamarine;
+}

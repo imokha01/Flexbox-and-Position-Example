@@ -1,0 +1,20 @@
+.flex {
+    display: flex;
+    background-color: aqua;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 100vh;
+    align-content: ;
+
+}
+
+
+.flex div {
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    /* gap: 20px; */
+    flex-wrap: wrap;
+
+}

@@ -1,0 +1,13 @@
+.flex {
+    display: flex;
+    background-color: aqua;
+    flex-direction: row;
+
+
+}
+
+
+.first {
+    width: 400px;
+    
+}

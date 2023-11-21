@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 2opx;
+    margin-top: 10;
+}
+
+.right {
+    display: flex;
+}
+

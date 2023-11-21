@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 2opx;
+}
+
+.right {
+    display: flex;
+}
+
